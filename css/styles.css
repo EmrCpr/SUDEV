@@ -157,9 +157,9 @@ a:hover {
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.375rem 2.25rem 1.375rem 2.25rem;
-	border: 1px solid #7dc22b;
+	border: 1px solid #FB824B;
 	border-radius: 4px;
-	background-color: #7dc22b;
+	background-color: #FB824B;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -170,7 +170,7 @@ a:hover {
 
 .btn-solid-reg:hover {
 	background-color: transparent;
-	color: #7dc22b; /* needs to stay here because of the color property of a tag */
+	color: #FB824B; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
 }
 
@@ -328,8 +328,8 @@ a:hover {
 }
 
 .navbar .logo-image img {
-    /* width: 100px; */
-	height: 90px;
+    /* width: 100px;  */
+	height: 85px;
 }
 
 .navbar .logo-text {
@@ -342,7 +342,7 @@ a:hover {
 
 .offcanvas-collapse {
 	position: fixed;
-	top: 3.25rem; /* adjusts the height between the top of the page and the offcanvas menu */
+	top: 2.90rem; /* adjusts the height between the top of the page and the offcanvas menu */
 	bottom: 0;
 	left: 100%;
 	width: 100%;
@@ -663,7 +663,7 @@ a:hover {
 
 .filter .button:hover,
 .filter .button.is-checked {
-	background-color: #7dc22b;
+	background-color: #FB824B;
 	color: #ffffff;
 }
 
@@ -881,7 +881,7 @@ a:hover {
 }
 
 .footer .footer-col.third .fa-stack:hover .fa-stack-2x {
-    color: #7dc22b;
+    color: #FB824B;
 }
 
 .footer .footer-col.third .fa-stack:hover .fa-stack-1x {
